@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Amenallah Brahim
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><h1 align="center">Hey there, I'm Amen allah Brahim</h1>
 <h3 align="center">💻 Full-Stack Developer | 🌍 Based in Tunisia | 🚀 Passionate about building modern web apps</h3>
 
 ---
