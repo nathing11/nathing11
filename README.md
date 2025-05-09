@@ -1,48 +1,49 @@
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><h1>Hey there, I'm Amen allah Brahim</h1>
-<h3 align="center">💻 Full-Stack Developer | 🌍 Based in Tunisia | 🚀 Passionate about building modern web apps</h3>
+<!-- Profile Header -->
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/>
+  Hey, I'm Amen allah Brahim
+</h1>
+<h3 align="center">
+  💻 Full-Stack Developer • 🌍 Based in Tunisia • 🚀 Building modern web experiences
+</h3>
 
 ---
 
-### 📫 Let's Connect
-- 📧 Email: **amenallahbrahim6@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/amenallah-brahim-90991a2a1/)
-
----
-
-### 🛠️ Tech Stack
-<p align="left">
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://tailwindcss.com/_next/static/media/social-square.6a52c05f.jpg" alt="Tailwind" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt" width="40" height="40"/>
+<!-- Connect Section -->
+<p align="center">
+  📫 <strong>Get in Touch</strong><br/>
+  <a href="mailto:amenallahbrahim6@gmail.com">📧 amenallahbrahim6@gmail.com</a> • 
+  <a href="https://www.linkedin.com/in/amenallah-brahim-90991a2a1/" target="_blank">💼 LinkedIn</a>
 </p>
 
 ---
 
-### ⚡ A Bit About Me
-- 🌐 I love building full-stack apps with modern frameworks.
-- 🧠 Always learning & exploring new technologies.
-- 🎨 Enjoy working with clean UI/UX and performant APIs.
-- 👨‍💻 Currently working on cool React dashboards and data visualization.
+<!-- Tech Stack Section -->
+<h3 align="center">🛠️ My Tech Toolbox</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,bootstrap,css,html,js,ts,react,tailwind,spring,java,python,flask,nodejs,mongodb,mysql,postgres,git,figma" alt="Tech stack icons" />
+</p>
 
 ---
 
-### 🧩 Fun Fact
-I code like I breathe – **fast, natural, and full of bugs that get fixed eventually 😅**
+<!-- About Me Section -->
+<h3 align="center">⚡ About Me</h3>
+<p align="center">
+  I'm passionate about building full-stack applications with clean design and performant APIs.<br/>
+  I enjoy exploring new technologies, crafting intuitive UI/UX, and bringing ideas to life with code.
+</p>
 
 ---
+
+<!-- Fun Fact Section -->
+<h3 align="center">🤓 Fun Fact</h3>
+<p align="center">
+  I code like I breathe – <em>fast, natural, and full of bugs that get fixed eventually 😅</em>
+</p>
+
+---
+
+<!-- Animated Footer -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C4B3&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;React+%2B+Spring+Boot+Enthusiast;Clean+Code+Advocate;Always+Learning..." alt="Typing SVG" />
+</p>
