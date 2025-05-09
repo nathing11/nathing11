@@ -1,49 +1,60 @@
-<!-- Profile Header -->
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/>
-  Hey, I'm Amen allah Brahim
-</h1>
-<h3 align="center">
-  💻 Full-Stack Developer • 🌍 Based in Tunisia • 🚀 Building modern web experiences
-</h3>
-
----
-
-<!-- Connect Section -->
+<!-- Animated Banner -->
 <p align="center">
-  📫 <strong>Get in Touch</strong><br/>
-  <a href="mailto:amenallahbrahim6@gmail.com">📧 amenallahbrahim6@gmail.com</a> • 
-  <a href="https://www.linkedin.com/in/amenallah-brahim-90991a2a1/" target="_blank">💼 LinkedIn</a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00FFA3&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Amen+allah+Brahim;Full-Stack+Developer+%F0%9F%9A%80;Passionate+about+modern+web+apps" alt="Typing SVG" />
 </p>
 
 ---
 
-<!-- Tech Stack Section -->
-<h3 align="center">🛠️ My Tech Toolbox</h3>
+<!-- Profile Summary -->
+<h3 align="center">💻 Full-Stack Developer | 🌍 Tunisia | 🔥 Clean Code + UI Addict</h3>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,bootstrap,css,html,js,ts,react,tailwind,spring,java,python,flask,nodejs,mongodb,mysql,postgres,git,figma" alt="Tech stack icons" />
+  <a href="mailto:amenallahbrahim6@gmail.com">
+    <img src="https://img.shields.io/badge/Email-amenallahbrahim6@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/amenallah-brahim-90991a2a1/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"/>
+  </a>
 </p>
 
 ---
 
-<!-- About Me Section -->
-<h3 align="center">⚡ About Me</h3>
+<!-- Tech Stack Icons -->
+<h3 align="center">🧰 Tech Toolbox</h3>
 <p align="center">
-  I'm passionate about building full-stack applications with clean design and performant APIs.<br/>
-  I enjoy exploring new technologies, crafting intuitive UI/UX, and bringing ideas to life with code.
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,tailwind,bootstrap,nodejs,java,spring,python,flask,mongodb,mysql,postgres,git,figma" />
 </p>
 
 ---
 
-<!-- Fun Fact Section -->
-<h3 align="center">🤓 Fun Fact</h3>
+<!-- About Me -->
+<h3 align="center">🌟 About Me</h3>
 <p align="center">
-  I code like I breathe – <em>fast, natural, and full of bugs that get fixed eventually 😅</em>
+  I'm a code craftsman who loves designing full-stack apps that blend performance and style.<br/>
+  Currently focusing on <strong>React dashboards, Node.js services</strong>, and <strong>data visualization</strong>.<br/>
+  I thrive on clean architecture, sleek UI/UX, and learning new stacks.
 </p>
 
 ---
 
-<!-- Animated Footer -->
+<!-- Fun Fact -->
+<h3 align="center">🎯 Fun Fact</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C4B3&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;React+%2B+Spring+Boot+Enthusiast;Clean+Code+Advocate;Always+Learning..." alt="Typing SVG" />
+  I code like I breathe – <strong>fast</strong>, <strong>natural</strong>, and <strong>debugged eventually</strong> 😅
+</p>
+
+---
+
+<!-- GitHub Stats + Extras -->
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amenallahbrahim&show_icons=true&theme=radical&hide_border=true" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amenallahbrahim&theme=radical&hide_border=true" width="45%"/>
+</p>
+
+---
+
+<!-- Footer Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/animated/purple.svg" width="100%" />
 </p>
